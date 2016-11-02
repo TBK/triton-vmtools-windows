@@ -1,2 +1,2 @@
-# sdc-vmtools-windows
-Windows SmartDC VMtools
+# triton-vmtools-windows
+Windows Triton VMtools
